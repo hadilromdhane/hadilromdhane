@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **romdhanehadil7@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEOcBY55Xw/UYlHTQbgFLVFqKeJli2jDA/view?utm_content=DAEOcBY55Xw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEOcBY55Xw/UYlHTQbgFLVFqKeJli2jDA/view?utm_content=DAEOcBY55Xw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 - ⚡ Fun fact **My hands handle 80 percent of my discussions.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
