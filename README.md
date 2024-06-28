@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadil Romdhane</h1>
 <h3 align="center">Google Certified TensorFlow Developer</h3>
 
-- 💻 I am Learning Data Analysis with Udacity Data Analysis Program
+- 💻 I learned Data Analysis with Udacity Data Analysis Program
 
 - 🌱 I’m currently learning **Machine Learning and DeepLearning**
 
